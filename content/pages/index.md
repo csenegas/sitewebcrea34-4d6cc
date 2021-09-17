@@ -3,9 +3,6 @@ title: Home
 sections:
   - type: hero_section
     subtitle: Optional hero section subtitle
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
