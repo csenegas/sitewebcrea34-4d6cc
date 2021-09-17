@@ -6,7 +6,7 @@ sections:
     actions:
       - label: Nous contacter
         url: /thank-you
-        style: link
+        style: primary
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
