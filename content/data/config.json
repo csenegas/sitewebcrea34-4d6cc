@@ -116,5 +116,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-episode"
-    }
+    },
+    "domain": "https://sitewebcrea34-4d6cc.netlify.app"
 }
