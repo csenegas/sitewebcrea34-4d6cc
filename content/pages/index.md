@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Optional hero section subtitle
+    subtitle: Donnez de la visibilité à votre activité
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
