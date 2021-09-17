@@ -7,7 +7,7 @@ sections:
       - label: Nous contacter
         url: /thank-you
         style: primary
-        has_icon: false
+        has_icon: true
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
