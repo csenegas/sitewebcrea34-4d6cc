@@ -1,7 +1,7 @@
 ---
 title: tfytfyycv
 subtitle: .
-date: '2020-11-15'
+date: '0002-11-15'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image_alt: Episode 7 placeholder image
