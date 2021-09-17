@@ -22,7 +22,7 @@ sections:
     background_image_opacity: 20
     has_border: true
     background_image: /images/bg.jpg
-    title: de creation de site web
+    title: Agence de creation de site web
   - type: blog_feed_section
     title: Latest Episodes
     blog_feed_cols: three
