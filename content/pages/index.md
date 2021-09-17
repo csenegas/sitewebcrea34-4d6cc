@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: Donnez de la visibilité à votre activité
     actions:
-      - label: Subscribe to Podcast
+      - label: Nous contacter
         url: /thank-you
         style: primary
     image_alt: Hero section placeholder image
